@@ -32,3 +32,17 @@ This project uses a neural network model to predict the **potability of water** 
 3. Launch Jupyter Notebook:
    ```bash
    jupyter notebook
+
+## 🧪 How to Run
+
+You can run this notebook using:
+
+### ▶ Google Colab
+[Open in Colab](https://colab.research.google.com/github/krishnaM-byte/Water-prediction-using-neural-network/blob/main/water_potability_nn.ipynb)
+
+### 💻 Locally on your machine
+```bash
+git clone https://github.com/krishnaM-byte/Water-prediction-using-neural-network.git
+cd Water-prediction-using-neural-network
+pip install -r requirements.txt
+jupyter notebook
