@@ -78,4 +78,6 @@ The neural network model was trained and evaluated using water quality datasets.
 - Deploy as a web application
 - Add real-time prediction interface
 
-- 
+## 📊 Accuracy & Loss Graphs
+
+![Training Results](training_results.png)
