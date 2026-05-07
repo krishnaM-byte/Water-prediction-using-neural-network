@@ -46,3 +46,36 @@ git clone https://github.com/krishnaM-byte/Water-prediction-using-neural-network
 cd Water-prediction-using-neural-network
 pip install -r requirements.txt
 jupyter notebook
+
+```
+## 🎯 Project Motivation
+
+This project was developed to explore how neural networks can be applied to environmental and public health related problems through predictive analysis.
+
+## 📚 Dataset Information
+
+The model was trained using water quality data containing physicochemical parameters used to determine water potability. Data preprocessing and normalization techniques were applied before training the neural network.
+
+
+## 🧠 Model Architecture
+
+- Input Layer
+- Dense Neural Network Layers
+- Activation Functions
+- Output Prediction Layer
+
+The model was trained using TensorFlow/Keras.
+
+## 📈 Results
+
+The neural network model was trained and evaluated using water quality datasets. Model performance was analyzed through training metrics and prediction outputs.
+
+
+## 🚀 Future Improvements
+
+- Improve model accuracy
+- Experiment with larger datasets
+- Deploy as a web application
+- Add real-time prediction interface
+
+- 
