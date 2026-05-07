@@ -80,4 +80,4 @@ The neural network model was trained and evaluated using water quality datasets.
 
 ## 📊 Accuracy & Loss Graphs
 
-![Training Results](training_results.png)
+![Training Results](training_results 2.png)
